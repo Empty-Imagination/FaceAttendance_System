@@ -1,0 +1,2 @@
+# FaceAttendance_System
+基于OpenCV的人脸识别检测考勤系统的设计与实现
